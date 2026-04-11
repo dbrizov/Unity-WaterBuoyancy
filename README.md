@@ -1,4 +1,4 @@
-# NaughtyWaterBuoyancy
+# Unity-WaterBuoyancy
 Water Buoyancy Simulation for Unity Engine
 
 ![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/water-buoyancy/idle.gif)
